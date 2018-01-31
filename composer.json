@@ -1,0 +1,11 @@
+{
+    "require": {
+        "overtrue/wechat": "2.1.*",
+        "endroid/qrcode": "^1.5",
+        "gregwar/captcha": "^1.1",
+        "yiisoft/yii2": "^2.0",
+        "yiisoft/yii2-twig": "^2.0",
+        "yiisoft/yii2-debug": "^2.0",
+        "yiisoft/yii2-gii": "^2.0"
+    }
+}
